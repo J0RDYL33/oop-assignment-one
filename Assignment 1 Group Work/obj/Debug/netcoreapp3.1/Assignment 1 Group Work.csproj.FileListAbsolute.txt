@@ -1,0 +1,11 @@
+C:\Users\J0RDYL33\source\repos\Assignment 1 Group Work\Assignment 1 Group Work\bin\Debug\netcoreapp3.1\Assignment 1 Group Work.exe
+C:\Users\J0RDYL33\source\repos\Assignment 1 Group Work\Assignment 1 Group Work\bin\Debug\netcoreapp3.1\Assignment 1 Group Work.deps.json
+C:\Users\J0RDYL33\source\repos\Assignment 1 Group Work\Assignment 1 Group Work\bin\Debug\netcoreapp3.1\Assignment 1 Group Work.runtimeconfig.json
+C:\Users\J0RDYL33\source\repos\Assignment 1 Group Work\Assignment 1 Group Work\bin\Debug\netcoreapp3.1\Assignment 1 Group Work.runtimeconfig.dev.json
+C:\Users\J0RDYL33\source\repos\Assignment 1 Group Work\Assignment 1 Group Work\bin\Debug\netcoreapp3.1\Assignment 1 Group Work.dll
+C:\Users\J0RDYL33\source\repos\Assignment 1 Group Work\Assignment 1 Group Work\bin\Debug\netcoreapp3.1\Assignment 1 Group Work.pdb
+C:\Users\J0RDYL33\source\repos\Assignment 1 Group Work\Assignment 1 Group Work\obj\Debug\netcoreapp3.1\Assignment 1 Group Work.csprojAssemblyReference.cache
+C:\Users\J0RDYL33\source\repos\Assignment 1 Group Work\Assignment 1 Group Work\obj\Debug\netcoreapp3.1\Assignment 1 Group Work.AssemblyInfoInputs.cache
+C:\Users\J0RDYL33\source\repos\Assignment 1 Group Work\Assignment 1 Group Work\obj\Debug\netcoreapp3.1\Assignment 1 Group Work.AssemblyInfo.cs
+C:\Users\J0RDYL33\source\repos\Assignment 1 Group Work\Assignment 1 Group Work\obj\Debug\netcoreapp3.1\Assignment 1 Group Work.dll
+C:\Users\J0RDYL33\source\repos\Assignment 1 Group Work\Assignment 1 Group Work\obj\Debug\netcoreapp3.1\Assignment 1 Group Work.pdb
